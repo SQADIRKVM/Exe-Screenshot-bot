@@ -1,4 +1,4 @@
-# [Screenshotit_bot](https://tx.me/exe_screenshotbot)
+# [Exe_Screenshotbot](https://tx.me/exe_screenshotbot)
 
 > Telegram Bot For Screenshot Generation. Check Description for the live example 
 
