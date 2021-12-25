@@ -12,7 +12,7 @@ async def start(c, m, cb=False):
     mention = '[SQADIR](https://t.me/EDU_XOM)'
     try:
         owner = await c.get_users(owner_id)
-        username = owner.username if owner.username else 'Ns_AnoNymous'
+        username = owner.username if owner.username else 'SQADIRKVM'
         mention = owner.mention(style="md")
     except Exception as e:
         print(e)
