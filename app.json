@@ -9,7 +9,7 @@
    "Sample video",
    "Trim Video"
   ],
-  "repository": "https://github.com/MRK-YT/MT-screenshot-bot",
+  "repository": "https://github.com/SQADIRKVM/Exe-Screenshot-bot",
   "env": {
     "API_ID": {
       "description": "Your Telegram API ID. Get this value from https://youtu.be/5eEsvLAKVc0! ",
