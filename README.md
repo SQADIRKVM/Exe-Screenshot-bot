@@ -10,7 +10,7 @@ Since i had removed host bot will download the entire file and then generate scr
 
 ## Description
 
-An attempt to implement the screenshot generation of telegram files. Live version can be found here [@MT_Screenshot_Bot](https://t.me/exe_screenshotbot "Screenshot Generator Bot").
+An attempt to implement the screenshot generation of telegram files. Live version can be found here [@Exe_Screenshotbot](https://t.me/exe_screenshotbot "Screenshot Generator Bot").
 
 ## Installation Guide
 
